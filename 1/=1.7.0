@@ -1,3 +1,0 @@
-Defaulting to user installation because normal site-packages is not writeable
-Requirement already satisfied: importlib-metadata in /home/ta/.local/lib/python3.6/site-packages (1.6.0)
-Requirement already satisfied: zipp>=0.5 in /home/ta/.local/lib/python3.6/site-packages (from importlib-metadata) (3.1.0)
